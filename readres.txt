@@ -1,0 +1,13 @@
+adminwithpass.txt:shruthi
+readres.txt:divyashree
+Server.java:sukrithi
+readip.txt:sharath
+Login.java:sharath
+EBCDIC.java:shruthi
+dbcon.java:divyashree
+NewUser.java:shruthi
+Server.java:sharath
+view.java:shruthi
+dbcon.java:sharath
+wewewe.txt:sharath
+Test.txt:sukrithi
